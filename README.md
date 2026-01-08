@@ -1,1 +1,1 @@
-#Mina script
+Gå till "master" för riktiga koden
