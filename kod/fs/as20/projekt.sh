@@ -1,9 +1,9 @@
 #
-# Kan användas för följande attacker:
-# [Skriv möjliga attacker]
+# Kan användas för följande:
+# Kolla systemmiljö, testande
 #
-# Author: Frans Schartau
-# Last Update: 2025-01-01
+# Author: Frans Schartau/Elin Krell
+# Last Update: 2026-01-08
 
 echo "Välkommen till mitt RECON script för att kontrollera en Linux-miljö"
 
